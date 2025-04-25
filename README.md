@@ -15,8 +15,8 @@ Each was trained on different feature combinations and evaluated using accuracy,
 Random Forest achieved the best performance with 90% accuracy using the combination of MFCC, Spectral Centroid, and Chroma. Chroma feature individually provided outstanding performance across models.
 
 🔗 Resources
-Dataset
+[Dataset] (https://drive.google.com/drive/folders/1POPfZS0UT0eG81eBgj1WcGP1mXbXfoLH)
 
-EDA Notebook
+[EDA Notebook] (https://colab.research.google.com/drive/1W4ETwOajd-FEA4onbdyGkXQyHLPp8KiO)
 
-Modeling Notebook
+[Modeling Notebook] (https://colab.research.google.com/drive/185OlSFzcBgCdZBKSw_kgeh0TkhXa0Onk?usp=sharing)
